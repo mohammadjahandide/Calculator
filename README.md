@@ -1,5 +1,5 @@
-# calculator
+# Calculator
 
 ## Standard Calculator
 
-![Video_22-02-10_21-48-00](https://user-images.githubusercontent.com/67603446/153472868-1a9ba5a4-1ea3-4901-9523-780fee6ddc71.gif)
+![Video_22-03-09_18-21-16](https://user-images.githubusercontent.com/67603446/157467083-8058e7bf-f23c-450d-9c91-34842473dc2c.gif)
